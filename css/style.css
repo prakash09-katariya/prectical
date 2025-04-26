@@ -517,7 +517,9 @@ header .wrapper .cta-btn a {
 }
 
 @media (max-width: 576px) {
-  
+  .hero-section .hero-content-wrapper .wrap-btn .secondary div{
+      width:100%;
+  }
     .hero-section .hero-content-wrapper .wrap-btn {
    
         flex-wrap: wrap;
