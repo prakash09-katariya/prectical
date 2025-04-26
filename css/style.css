@@ -1612,7 +1612,7 @@ header .wrapper .cta-btn a {
     }
 }
 @media(max-width:576px){
-    .cta-inner-bg{
+    .cta-inner-bg,.testimonial-section-inner{
        padding: 20px;
     }
 .form-wrapper{
