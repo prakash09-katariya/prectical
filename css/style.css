@@ -515,6 +515,15 @@ header .wrapper .cta-btn a {
     padding: 11px 20px;
     transition: transform .3s, background-color .3s;
 }
+@media(max-width:576px){
+    .hero-section .hero-content-wrapper .wrap-btn{
+        flex-wrap:wrap;
+        row-gap:15px;
+    }
+    .hero-section .hero-content-wrapper .wrap-btn a{
+        width:100%;
+    }
+}
 
 /* comp-brand-logo-start */
 .comp-brand-logo {
