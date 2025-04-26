@@ -1611,7 +1611,12 @@ header .wrapper .cta-btn a {
         align-items: center;
     }
 }
-
+@media(max-width:576px){
+.form-wrapper{
+    flex-wrap:wrap;
+}
+   
+}
 @media screen and (max-width: 991px) {
     .footer-widget-wrapper {
         margin-bottom: 40px;
