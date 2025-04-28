@@ -1,5 +1,5 @@
 $(document).ready(function () {
-
+ 
   // Initialize brand list slider
   $('.brand-list').slick({
     nav: false,
